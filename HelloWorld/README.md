@@ -1,1 +1,3 @@
-Simple Hello World! program.
+# Hello World! Program
+
+A basic program that prints "Hello, World!" to the console.
